@@ -1,5 +1,4 @@
----
 helmAppName: wordpresstesting
 image:
-  repository: wordpress
+  repository: nginx
   tag: latest
