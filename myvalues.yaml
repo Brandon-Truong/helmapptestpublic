@@ -1,3 +1,4 @@
+---
 helmAppName: wordpresstesting
 image:
   repository: wordpress
