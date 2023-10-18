@@ -1,4 +1,4 @@
-helmAppName: wordpresstesting
+helmAppName: wordpress
 image:
   repository: wordpress
   tag: latest
