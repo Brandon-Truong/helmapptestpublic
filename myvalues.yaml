@@ -1,4 +1,4 @@
-helmAppName: apptest
+helmAppName: wordpress
 image:
-  repository: nginx
+  repository: wordpress
   tag: latest
